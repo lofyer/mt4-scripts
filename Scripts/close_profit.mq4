@@ -16,7 +16,7 @@ void OnStart()
    int unit = 1;
   
    // The profit per trades.
-   double profit = 100;
+   double profit = 200;
    
    // Time to respawn in seconds;
    double respawn = 5;

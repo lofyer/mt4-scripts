@@ -15,9 +15,11 @@ void OnStart()
 //---
    while(OrdersTotal() != 0){
       for(int i=0;i<OrdersTotal();i++){
-         if(OrderSelect(i, SELECT_BY_POS, MODE_TRADES))
-            OrderClose(OrderTicket(),1 ,Ask, 0, 0);
-            Alert(GetLastError());   
+         if(OrderSelect(i, SELECT_BY_POS, MODE_TRADES)){
+            double tAsk = MarketInfo(OrderSymbol(), MODE_ASK);
+            OrderClose(OrderTicket(), 1, tAsk, 0, 0);
+         }
+         //Alert(GetLastError());   
          //Sleep(200);
       }
    }
