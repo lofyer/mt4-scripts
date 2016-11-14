@@ -20,7 +20,7 @@ void OnStart()
             OrderClose(OrderTicket(), 1, tAsk, 0, 0);
          }
          //Alert(GetLastError());   
-         //Sleep(200);
+         Sleep(500);
       }
    }
   }
