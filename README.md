@@ -1,2 +1,2 @@
 # mt4-scripts
-My forex trade scripts.
+My forex trade scripts
