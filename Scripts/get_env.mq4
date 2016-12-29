@@ -13,6 +13,6 @@
 void OnStart()
   {
 //---
-   Print("Terminal name is ",TerminalName());
+   Print("Terminal name is ", TerminalName());
   }
 //+------------------------------------------------------------------+
