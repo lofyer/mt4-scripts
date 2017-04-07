@@ -13,13 +13,30 @@
 void OnStart()
   {
    string auth_plain = "demo:demo";
-   string keystr="ABCDEFG";
+   string keystr="";
    
    uchar dst[],src[],key[];
-   StringToCharArray(keystr, key);
-   StringToCharArray(auth_plain, src);
-   string b64_str = CryptDecode(CRYPT_BASE64, src, key, dst);
-   printf(b64_str);
+   StringToCharArray(keystr, key, 0, StringLen(keystr));
+   StringToCharArray(auth_plain, src, 0, StringLen(auth_plain));
+   int b64_res = CryptEncode(CRYPT_BASE64, src, key, dst);
+   if(b64_res>0) 
+     { 
+      //--- print encrypted data 
+      //PrintFormat("Encoded data: size=%d %s",res,ArrayToHex(dst)); 
+      //--- decode dst[] to src[] 
+      b64_res = CryptDecode(CRYPT_BASE64,dst,key,src); 
+      //--- check error      
+      if(b64_res>0) 
+        { 
+         //--- print decoded data 
+         PrintFormat("Decoded data: size=%d, string='%s'",ArraySize(src),CharArrayToString(src)); 
+        } 
+      else 
+         Print("Error in CryptDecode. Error code=",GetLastError()); 
+     } 
+   else 
+      Print("Error in CryptEncode. Error code=",GetLastError());
+   string b64_str = CharArrayToString(dst);
    // If you wanna use cookie, please refer add more parameters as HELP says
    string httpHeaders,headers;
    char post[],result[];
