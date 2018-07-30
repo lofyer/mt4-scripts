@@ -1,0 +1,60 @@
+0	17:15:48.554	Custom indicator RSI EURUSD-2,H4: loaded successfully
+0	17:15:48.571	RSI EURUSD-2,H4: initialized
+0	17:15:48.663	Custom indicator RSI USDCNH-2,M30: loaded successfully
+0	17:15:48.675	RSI USDCNH-2,M30: initialized
+0	17:15:50.146	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:15:50.159	client_server AUDUSD-2,H1: initialized
+0	17:15:50.159	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =4060
+0	17:15:54.666	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =4060
+0	17:15:56.108	client_server AUDUSD-2,H1: uninit reason 0
+0	17:15:56.127	Script client_server AUDUSD-2,H1: removed
+0	17:16:22.032	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:16:22.047	client_server AUDUSD-2,H1: initialized
+0	17:16:22.078	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =4060
+0	17:16:28.581	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =4060
+0	17:16:29.626	client_server AUDUSD-2,H1: uninit reason 0
+0	17:16:29.639	Script client_server AUDUSD-2,H1: removed
+0	17:16:54.744	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:16:54.756	client_server AUDUSD-2,H1: initialized
+0	17:16:57.763	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:16:59.379	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:16:59.379	client_server AUDUSD-2,H1: uninit reason 0
+0	17:16:59.393	Script client_server AUDUSD-2,H1: removed
+0	17:17:11.157	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:17:11.172	client_server AUDUSD-2,H1: initialized
+0	17:17:11.705	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:17:12.241	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:17:12.241	client_server AUDUSD-2,H1: uninit reason 0
+0	17:17:12.256	Script client_server AUDUSD-2,H1: removed
+0	17:19:08.234	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:19:08.245	client_server AUDUSD-2,H1: initialized
+0	17:19:09.543	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =5200
+0	17:19:14.406	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =5200
+0	17:19:15.526	client_server AUDUSD-2,H1: uninit reason 0
+0	17:19:15.543	Script client_server AUDUSD-2,H1: removed
+0	17:22:18.139	Compiling 'client_server'
+0	17:22:42.209	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:22:42.222	client_server AUDUSD-2,H1: initialized
+0	17:22:42.844	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:22:43.334	client_server AUDUSD-2,H1: Unauthorized Access
+0	17:22:43.334	client_server AUDUSD-2,H1: uninit reason 0
+0	17:22:43.352	Script client_server AUDUSD-2,H1: removed
+0	17:38:25.609	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:38:25.620	client_server AUDUSD-2,H1: initialized
+0	17:38:26.939	client_server AUDUSD-2,H1: This is trade-posting page.
+0	17:38:27.992	client_server AUDUSD-2,H1: What demo post is b'Nothing to post\x00'
+0	17:38:27.992	client_server AUDUSD-2,H1: uninit reason 0
+0	17:38:28.008	Script client_server AUDUSD-2,H1: removed
+0	17:48:48.230	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:48:48.242	client_server AUDUSD-2,H1: initialized
+0	17:48:49.913
+0	17:48:51.026
+0	17:48:51.026	client_server AUDUSD-2,H1: uninit reason 0
+0	17:48:51.040	Script client_server AUDUSD-2,H1: removed
+0	17:50:09.675	Script client_server AUDUSD-2,H1: loaded successfully
+0	17:50:09.693	client_server AUDUSD-2,H1: initialized
+0	17:50:09.694	client_server AUDUSD-2,H1: 0
+0	17:50:11.989
+0	17:50:18.353	client_server AUDUSD-2,H1: Error in WebRequest. Error code  =5203
+0	17:50:22.270	client_server AUDUSD-2,H1: uninit reason 0
+0	17:50:22.292	Script client_server AUDUSD-2,H1: removed

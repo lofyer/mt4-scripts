@@ -1,0 +1,69 @@
+0	22:35:08.159	Compiling 'strategy3'
+0	22:35:13.536	Custom indicator RSI EURUSD-2,H1: loaded successfully
+0	22:35:13.551	RSI EURUSD-2,H1: initialized
+0	22:35:13.624	Custom indicator RSI USDCNH-2,M30: loaded successfully
+0	22:35:13.638	RSI USDCNH-2,M30: initialized
+0	22:35:53.412	RSI EURUSD-2,H1: uninit reason 3
+0	22:35:53.413	RSI EURUSD-2,H4: initialized
+0	22:38:35.611	RSI EURUSD-2,H4: uninit reason 9
+0	22:38:35.611	RSI USDCNH-2,M30: uninit reason 9
+0	22:38:35.770	Custom indicator RSI EURUSD-2,H4: removed
+0	22:38:35.804	Custom indicator RSI USDCNH-2,M30: removed
+0	22:38:45.222	Custom indicator RSI EURUSD-2,H4: loaded successfully
+0	22:38:45.232	RSI EURUSD-2,H4: initialized
+0	22:38:45.332	Custom indicator RSI USDCNH-2,M30: loaded successfully
+0	22:38:45.341	RSI USDCNH-2,M30: initialized
+0	22:38:46.829	Script strategy3 AUDUSD-2,H1: loaded successfully
+0	22:38:46.829	strategy3 AUDUSD-2,H1 inputs: watch_period=30; max_orders=10; 
+0	22:38:46.839	strategy3 AUDUSD-2,H1: initialized
+0	22:38:46.840	strategy3 AUDUSD-2,H1: FileOpen OK
+0	22:38:50.363	RSI EURUSD-2,H4: uninit reason 9
+0	22:38:50.363	RSI USDCNH-2,M30: uninit reason 9
+1	22:38:50.427	strategy3 AUDUSD-2,H1: Abnormal termination
+0	22:38:50.427	strategy3 AUDUSD-2,H1: uninit reason 9
+0	22:38:50.446	Script strategy3 AUDUSD-2,H1: removed
+0	22:38:50.952	Custom indicator RSI EURUSD-2,H4: removed
+0	22:38:50.962	Custom indicator RSI USDCNH-2,M30: removed
+0	22:38:57.116	Compiling 'MACD Sample'
+0	22:38:57.116	Compiling 'Moving Average'
+0	22:39:00.838	Compiling 'Accelerator'
+0	22:39:00.839	Compiling 'Accumulation'
+0	22:39:00.839	Compiling 'Alligator'
+0	22:39:00.839	Compiling 'ATR'
+0	22:39:00.839	Compiling 'Awesome'
+0	22:39:00.839	Compiling 'Bands'
+0	22:39:00.839	Compiling 'Bears'
+0	22:39:00.839	Compiling 'Bulls'
+0	22:39:00.839	Compiling 'CCI'
+0	22:39:00.839	Compiling 'Custom Moving Averages'
+0	22:39:00.839	Compiling 'Heiken Ashi'
+0	22:39:00.839	Compiling 'Ichimoku'
+0	22:39:00.839	Compiling 'iExposure'
+0	22:39:00.840	Compiling 'MACD'
+0	22:39:00.840	Compiling 'Momentum'
+0	22:39:00.840	Compiling 'OsMA'
+0	22:39:00.840	Compiling 'Parabolic'
+0	22:39:00.840	Compiling 'RSI'
+0	22:39:00.840	Compiling 'Stochastic'
+0	22:39:00.840	Compiling 'ZigZag'
+0	22:39:00.842	Compiling 'SimplePanel'
+0	22:39:10.805	Compiling 'PeriodConverter'
+0	22:39:10.806	Compiling 'DLLSampleTester'
+0	22:39:10.807	Compiling 'PipeClient'
+0	22:39:10.808	Compiling 'PipeClientPure'
+0	22:39:15.654	Compiling 'stdlib'
+0	22:39:20.865	Custom indicator RSI EURUSD-2,H4: loaded successfully
+0	22:39:20.876	RSI EURUSD-2,H4: initialized
+0	22:39:20.972	Custom indicator RSI USDCNH-2,M30: loaded successfully
+0	22:39:20.986	RSI USDCNH-2,M30: initialized
+0	22:39:22.502	Script strategy3 AUDUSD-2,H1: loaded successfully
+0	22:39:22.502	strategy3 AUDUSD-2,H1 inputs: watch_period=30; max_orders=10; 
+0	22:39:22.513	strategy3 AUDUSD-2,H1: initialized
+0	22:39:22.522	strategy3 AUDUSD-2,H1: FileOpen OK
+1	22:39:48.041	strategy3 AUDUSD-2,H1: Abnormal termination
+0	22:39:48.041	strategy3 AUDUSD-2,H1: uninit reason 4
+0	22:39:48.051	Script strategy3 AUDUSD-2,H1: removed
+0	22:39:56.319	RSI EURUSD-2,H4: uninit reason 9
+0	22:39:56.319	RSI USDCNH-2,M30: uninit reason 9
+0	22:39:56.495	Custom indicator RSI EURUSD-2,H4: removed
+0	22:39:56.504	Custom indicator RSI USDCNH-2,M30: removed
